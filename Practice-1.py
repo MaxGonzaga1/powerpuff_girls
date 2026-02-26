@@ -1,3 +1,9 @@
+#Creating a password validator that checks for the following criteria:
+#1. The password must contain at least one letter.
+#2. The password must contain at least one digit.
+#3. The password must contain at least one special character (e.g., !, @, #, $, etc.).
+#4. The password must be at least 8 characters long.
+
 import string
 
 while True:
